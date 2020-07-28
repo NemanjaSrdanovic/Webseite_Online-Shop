@@ -15,4 +15,4 @@ How to review the Application?
 
 Since the project was implemented on the university server, unfortunately not all features can be tested.
 
-You can get the best overview by reading the documentation (0157 ---).
+You can get the best overview by reading the documentation (01576891_SRDANOVIC_dokument.pdf) and afterwards analysing the unclear code parts.
