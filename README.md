@@ -11,8 +11,8 @@ Dabei beschäftigte ich mich erstens mit dem Entwurf und der Modellierung einer 
 -------------------------------------
 -------------------------------------
 
-How to review the Application?
+Wie kann die Implementierung getestet werden?
 
-Since the project was implemented on the university server, unfortunately not all features can be tested.
+Da das Projekt auf dem Universitätsserver implementiert wurde, können leider nicht alle Funktionen getestet werden. 
 
-You can get the best overview by reading the documentation (01576891_SRDANOVIC_dokument.pdf) and afterwards analysing the unclear code parts.
+Den besten Überblick erhalten Sie, indem Sie die Dokumentation (01576891_SRDANOVIC_dokument.pdf) lesen und anschließend die unklaren Codeteile analysieren.
