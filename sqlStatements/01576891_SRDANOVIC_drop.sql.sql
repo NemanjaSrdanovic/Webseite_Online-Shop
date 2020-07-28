@@ -1,0 +1,26 @@
+DROP TABLE Artikel CASCADE CONSTRAINTS;
+DROP TABLE Bewertet;
+DROP TABLE Bearbeitet;
+DROP TABLE Vorgesetzter;
+DROP TABLE Taetigt;
+DROP TABLE BACK_OFFICE_MA;
+DROP TABLE FRONT_OFFICE_MA;
+DROP TABLE SUPPORT_MA;
+DROP TABLE Kunde;
+DROP TABLE ONLINE_SHOP;
+DROP TABLE Bestellung;
+DROP TABLE Bezahlung;
+DROP TABLE Loginform;
+
+
+
+DROP SEQUENCE kunde_seq;
+DROP SEQUENCE mitar_seq;
+DROP SEQUENCE login_seq;
+DROP SEQUENCE track_seq;
+DROP SEQUENCE bestell_seq;
+DROP SEQUENCE zahl_seq;
+DROP SEQUENCE taetigt_bseq;
+DROP SEQUENCE taetigt_zseq;
+DROP SEQUENCE bearbeitet_bseq;
+DROP SEQUENCE frontoffice_id;

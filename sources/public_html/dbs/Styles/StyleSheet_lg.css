@@ -1,0 +1,35 @@
+.container{
+	width: 500px;
+	height: 450px;
+	text-align: center;
+	margin: 0 auto;
+	background-color: rgba(44, 62, 80,0.5);
+	margin-top: 160px;
+    border: 1px solid black;
+
+}
+ 
+.container img{
+	width: 150px;
+	height: 150px;
+    margin-top: -60px;
+    border: 1px solid black;
+    
+}
+ 
+input[type="text"],input[type="password"]{
+	margin-top: 30px;
+	height: 45px;
+	width: 300px;
+	font-size: 18px;
+	margin-bottom: 30px;
+	background-color: #fff;
+	padding-left: 10px; 
+}
+
+.btn-login{
+	padding: 15px 25px;
+	border: none;
+	background-color: #00008B;
+	color: #fff;
+}
